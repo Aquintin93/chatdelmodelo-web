@@ -4,7 +4,7 @@ export default function App() {
       <header className="text-center mb-8">
         <h1 className="text-4xl font-bold mb-2">Chat del Modelo</h1>
         <p className="text-lg max-w-xl">
-          Aprende y aplica el Modelo de Gestión de Mercadona con nuestro asistente virtual.
+          Aprende y aplica el Modelo con nuestro asistente virtual.
         </p>
       </header>
 
